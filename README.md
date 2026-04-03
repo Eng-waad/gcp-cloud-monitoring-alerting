@@ -16,7 +16,7 @@ This project demonstrates hands-on experience with Google Cloud Monitoring, incl
 
 ---
 
-## ⚙️ Tasks Performed
+## Tasks Performed
 
 ### Task 1: Monitoring Overview
 - Explored Cloud Monitoring interface
@@ -70,7 +70,7 @@ Avoid excessive alert noise. Alerts should be meaningful and actionable.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Step | Image |
 |------|------|
